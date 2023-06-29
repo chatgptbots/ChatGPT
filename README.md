@@ -1,6 +1,6 @@
 # ChatGPT
 Connect ChatGPT API
-
+```python
 import openai
 
 openai.ChatCompletion.create(
@@ -34,5 +34,5 @@ openai.ChatCompletion.create(
     "total_tokens": 74
   }
 }
-
+```
 This Bot was built using [askmebot.io](https://askmebot.io/)
